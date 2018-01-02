@@ -1,0 +1,142 @@
+body{
+background:#f9f9f9;
+}
+#main{
+            width: 1000px;
+            margin: 0px auto;
+        }
+#header{
+		
+		color:red;
+		text-align:center;
+		font-size:50px;
+		font-family:"Times New Roman", Times, serif;
+		font-weight:bold;
+	}
+	.container a{
+	text-decoration:none;
+	}
+	.container a:hover{
+            position:relative;
+            color: #CD853F;
+        }
+ .logo{
+width:298px;
+height:79px;
+float:left;
+margin:10px;
+background:url(../images/ghar.jpg);
+}    
+ .clear{
+            clear: both;
+}
+.mbody p{
+text-align:justify;
+}
+#search a{
+text-decoration:none;
+}
+.menu{
+width:800px;
+height:50px;
+margin:0px auto;
+}
+.menu a{
+		text-decoration:none;
+		font-weight:bold;
+		font-size:13px;
+		color:#fe9b00;
+		text-transform:uppercase;
+		}
+.menu ul{
+	list-style:none;
+}
+.menu li{
+	float:left;
+	margin-right:182px;
+	margin-left:-92px;
+	margin-top:10px;
+}
+.menu a{
+color:#DA4453;}
+.menu a:hover{
+color:#000000;
+}
+.search input {
+    border-radius: 7px;
+border: 1px solid #CCCCCC;
+    float: right;
+    padding: 8px;
+    width: 285px;
+	margin:5px;
+}
+.search input.btn {
+float:right;
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    margin: 10px 0 0 -40px;
+    padding: 0;
+    width: auto;
+}
+
+p{
+padding:15px;
+}
+h1{
+text-align:center;
+color:red;
+font-size:30px;
+}
+h2{
+padding:15px;
+text-align:left; color:red; 
+}
+h3{
+text-align:left;
+color:red;
+
+}
+h4{
+text-align:center; 
+color:red;
+}
+h5{
+text-align:center;
+color:red;
+font-size:20px;
+}
+#footer{
+	background:#CCC;
+	height:100px;
+	}
+	.footmen{float:left;
+margin-left:15px;
+margin-right:15px;
+margin-top:20px;
+border-right:1px solid #ccc;
+font-size:13px;}
+.footmen a{
+color:#fe9b00;}
+.blog{
+float:right;
+}
+.rblog{
+float:right;}
+.rblog h3{
+font-size:14px;
+color:#000000;
+padding-right:180px;}
+.social{
+background : url(../images/social-icons.png) 0 0 no-repeat scroll transparent;
+height : 50px;
+line-height : 50px;
+display : inline-block;
+text-indent : -9999px;
+float : left;
+} 
+a.tw{ background-position:0px 0;}
+a.fb{ background-position:-40px 0;}
+a.fl{ background-position:-70px 0;}
+a.rss{ background-position:-138px 0;}
+
+
